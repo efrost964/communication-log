@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lumpysacks\\.nuget\\packages\\": {},
+    "C:\\Users\\colto\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lumpysacks\\Desktop\\communication-log\\chap-15-studio\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\colto\\communication-log\\chap-15-studio\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\lumpysacks\\Desktop\\communication-log\\chap-15-studio\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\lumpysacks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lumpysacks\\Desktop\\communication-log\\chap-15-studio\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\colto\\communication-log\\chap-15-studio\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\colto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\colto\\communication-log\\chap-15-studio\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lumpysacks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\colto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
