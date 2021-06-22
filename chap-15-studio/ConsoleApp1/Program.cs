@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Pilot!");
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.WriteLine("it's a beautiful day!");
             Console.WriteLine("Pilot first line.");
             Console.WriteLine("This is Control's second line.");
             Console.WriteLine("Pilot second line")
