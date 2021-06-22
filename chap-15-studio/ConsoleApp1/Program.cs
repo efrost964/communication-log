@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Pilot!");
+            Console.WriteLine("Here is studio part 3.");
+
         }
     }
 }
