@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Here is studio part 3.");
+            Console.WriteLine("This is Control's second line.")
 
         }
     }
