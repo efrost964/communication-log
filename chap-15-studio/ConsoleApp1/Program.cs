@@ -9,7 +9,10 @@ namespace ConsoleApp1
             Console.WriteLine("Hello Pilot!");
             Console.WriteLine("Pilot first line.");
             Console.WriteLine("This is Control's second line.");
-            Console.WriteLine("Pilot second line")
+            Console.WriteLine("Pilot second line");
+            Console.WriteLine("jeez we are really killing it rn.");
+            
+
 
         }
     }
