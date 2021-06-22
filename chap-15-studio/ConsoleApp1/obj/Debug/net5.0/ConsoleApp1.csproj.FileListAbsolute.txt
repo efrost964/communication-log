@@ -1,0 +1,16 @@
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\lumpysacks\Desktop\communication-log\chap-15-studio\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
